@@ -15,7 +15,7 @@ Hi 👋, I'm Suyash Mane...<br><br>A passionate Python Developer, also building 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suyashstr&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashstr&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
