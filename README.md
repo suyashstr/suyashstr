@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Suyash Sunil Mane
+<h1>Hi, I'm Suyash Mane</h1>
 
 I'm Suyash Mane<br><br>A passionate Python Developer, also building skills in Version <br>Control system(Git) and expert in Adobe Lightroom.<br><br>🌍  I'm based in Mumbai City.<br> ✉️  You can contact me at [https://www.linkedin.com/in/suyash-mane-910791273/](mailto:https://www.linkedin.com/in/suyash-mane-910791273/)<br> 🧠  I'm learning Frontend Development and Git.<br> 🤝  I'm open to collaborating on any Python Project.<br> ⚡  Want to work with Google...
 
