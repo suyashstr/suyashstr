@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media4.giphy.com/media/Wj7lNjMNDxSmc/giphy.webp?cid=790b7611ugy1zvtpqed6v7psnzwev8gjbz565t6xiwpzqt1f&ep=v1_gifs_search&rid=giphy.webp&ct=g" align="center" style="width: 100%" />
+<img src="https://media4.giphy.com/media/Wj7lNjMNDxSmc/giphy.webp?cid=790b7611ugy1zvtpqed6v7psnzwev8gjbz565t6xiwpzqt1f&ep=v1_gifs_search&rid=giphy.webp&ct=g" align="center" style="width: 80%" />
 </div>  
   
 
@@ -80,13 +80,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
