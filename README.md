@@ -1,105 +1,37 @@
-<div align="center">
-<img src="https://media4.giphy.com/media/Wj7lNjMNDxSmc/giphy.webp?cid=790b7611ugy1zvtpqed6v7psnzwev8gjbz565t6xiwpzqt1f&ep=v1_gifs_search&rid=giphy.webp&ct=g" align="center" style="width: 80%" />
-</div>  
-  
+<h1 align="center">Hi 👋, I'm Suyash Mane (Shin)</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-### <div align="center">I'm Suyash Mane, a Frontend developer 👨‍💻 </div>  
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suyashstr&label=Profile%20views&color=0e75b6&style=flat" alt="suyashstr" /> </p>
 
-- 🧠 Currently, I am expanding my skillset by learning Frontend Development. I am excited to apply these new skills to future projects and continue to grow as a developer.  
-  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyashstr" alt="suyashstr" /></a> </p>
 
-- 🌱 I’m currently learning Javascript and practicing DSA.  
-  
+- 🔭 I’m currently working on **my Frontend Skills**
 
-- ✉️ Feel free to reach out to me at [www.linkedin.com/in/suyash-mane2024] . Let's connect and share our experiences and knowledge in the world of technology!  
-  
+- 🌱 I’m currently learning **Javascript and DSA**
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- 👯 I’m looking to collaborate on **any Python or web development Project.**
 
-<br/>  
+- 🤝 I’m looking for help with **my project contribution**
 
+- 👨‍💻 All of my projects are available at [https://github.com/suyashstr](https://github.com/suyashstr)
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+- 📫 How to reach me **www.linkedin.com/in/suyash-mane2024**
 
+- ⚡ Fun fact **the most money I've ever won in a shooting game was 100rs.**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/suyash-mane-910791273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suyash-mane-910791273/" height="30" width="40" /></a>
+</p>
 
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-</td><td valign="top" width="33%">
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/suyashstr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="suyashstr" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashstr&show_icons=true&locale=en&layout=compact" alt="suyashstr" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyashstr&show_icons=true&locale=en" alt="suyashstr" /></p>
 
-### Backend  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/suyashstr" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/suyash-mane2024" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=suyashstr&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=suyashstr&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/suyashstr" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suyashstr&" alt="suyashstr" /></p>
