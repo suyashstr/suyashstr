@@ -32,21 +32,9 @@
 
 - 🎧 Music: I sometimes just chill out and listen to music for fun and to unwind.
 
-<h2  align="center"> 🤝Connect with me</h2>
+<h2  align="center">💫About me</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/suyash-mane2024" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Suyash%20Mane-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-mane2024" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/suyashstr/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-suyashstr-gray?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
-
-<p  align="center">
-<a  href="https://leetcode.com/Suyashm_03/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  alt="meet2005"  height="30"  width="40"  /></a>
-</p>
+<p  align="center">I'm Suyash Sunil Mane, a passionate and motivated engineering student from📍Mumbai.🚀 I believe technology can be a powerful tool to make the world a better place.<br>⛓️With my knowledge and expertise.🎥 I am determined to create innovative solutions that can be used by businesses and individuals alike.📈 I am excited to be part of this evolving technological landscape and use my skills to positively impact💻⏭️</p>
 <br>
 
 <h2 align="center">💻Tech Stack</h2>
@@ -68,11 +56,23 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=suyashtr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h2  align="center">💫About me</h2>
 
-<p  align="center">I'm Suyash Sunil Mane, a passionate and motivated engineering student from📍Mumbai.🚀 I believe technology can be a powerful tool to make the world a better place.<br>⛓️With my knowledge and expertise.🎥 I am determined to create innovative solutions that can be used by businesses and individuals alike.📈 I am excited to be part of this evolving technological landscape and use my skills to positively impact💻⏭️</p>
+<h2  align="center"> 🤝Connect with me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/suyash-mane2024" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Suyash%20Mane-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-mane2024" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/suyashstr/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-suyashstr-gray?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+
+<p  align="center">
+<a  href="https://leetcode.com/Suyashm_03/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  alt="meet2005"  height="30"  width="40"  /></a>
+</p>
 <br>
-
 <h2 align="center">🔰 Google Badges</h2>
 
 <p><a href="https://www.cloudskillsboost.google/public_profiles/a0aeec28-c31f-4ace-b7c1-612239a677f2/badges/6537143">Google badge</a></p>
