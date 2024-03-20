@@ -75,7 +75,7 @@
 
 <h2 align="center">🔰 Google Badges</h2>
 
-[![An image of suyashstr's Google badges, which is a link to view their Google cloud profile]( <img src="https://cdn.qwiklabs.com/assets/leagues/bronze_sm-cab3aeab7aee2381834bf7c0d83f3a03e1822f39.png" alt="badge">,(<a href="https://www.cloudskillsboost.google/public_profiles/a0aeec28-c31f-4ace-b7c1-612239a677f2/badges/6537143">))
+[![An image of suyashstr's Google badges, which is a link to view their Google cloud profile]( <img src="https://cdn.qwiklabs.com/assets/leagues/bronze_sm-cab3aeab7aee2381834bf7c0d83f3a03e1822f39.png" alt="badge" width="200" height="150">,(<a href="https://www.cloudskillsboost.google/public_profiles/a0aeec28-c31f-4ace-b7c1-612239a677f2/badges/6537143">))
 
 <h3 align="center">Show some 💖 by ⭐ the <a href="https://github.com/suyashstr?tab=repositories">repositories</a>!</h3>
 
