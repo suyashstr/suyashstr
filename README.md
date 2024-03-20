@@ -62,8 +62,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyashstr&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
 
-[![suyashtr's GitHub | Stats](https://stats.quine.sh/suyashtr/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=meet244)
-
 </div>
   
 <h2 align="center">🏆 GitHub Trophies</h2>
@@ -77,7 +75,7 @@
 
 <h2 align="center">🔰 Google Badges</h2>
 
-[![An image of suyashstr's Holopin badges, which is a link to view their Google cloud profile]([https://holopin.me/meet244](https://www.cloudskillsboost.google/public_profiles/a0aeec28-c31f-4ace-b7c1-612239a677f2/badges/6537143))]([https://holopin.io/@meet244](https://www.cloudskillsboost.google/public_profiles/a0aeec28-c31f-4ace-b7c1-612239a677f2))
+[![An image of suyashstr's Holopin badges, which is a link to view their Google cloud profile]([(https://cdn.qwiklabs.com/assets/leagues/bronze_sm-cab3aeab7aee2381834bf7c0d83f3a03e1822f39.png)] (https://www.cloudskillsboost.google/public_profiles/a0aeec28-c31f-4ace-b7c1-612239a677f2/badges/6537143))
 
 <h3 align="center">Show some 💖 by ⭐ the <a href="https://github.com/suyashstr?tab=repositories">repositories</a>!</h3>
 
