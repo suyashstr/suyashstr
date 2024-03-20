@@ -1,40 +1,84 @@
-<h1 align="center">Hi 👋, I'm Suyash Mane (Shin)</h1>
-<h3 align="center">A passionate frontend developer from Mumbai</h3><br>
+
+<h1  align="center">Hi 👋, Suyash Mane!</h1>
+<p  align="center">  <img  src="https://komarev.com/ghpvc/?username=meet244&label=Profile%20views&color=0e75b6&style=flat"  alt="suyashstr"  />  </p>
+
+  
+
+<h2  align="center">💫About me</h2>
+
+<p  align="center">I'm Suyash Sunil Mane🗿, a passionate and motivated engineering student from📍Mumbai.🚀 I believe technology can be a powerful tool to make the world a better place. ⛓️With my knowledge and expertise.🎥 I am determined to create innovative solutions that can be used by businesses and individuals alike.📈 I am excited to be part of this evolving technological landscape and use my skills to positively impact💻⏭️</p>
+
+- 🌱 I’m currently into **Web Development stuff**
+
+  
+
+- 👯 I’m looking to collaborate with **Good projects for experience**
+
+  
+
+- 💬 Ask me about **things I've explored**
+
+  
+
+- 📫 How to reach me **<a href="www.linkedin.com/in/suyash-mane2024">LinkedIn</a>**
+
+  
+
+<h2  align="center"> 🤝Connect with me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/suyash-mane2024" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Suyash%20Mane-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-mane2024" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/suyashstr/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-suyashstr-gray?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 
-- 🔭 I’m currently working on **my Frontend Skills**
+<p  align="center">
+<a  href="https://leetcode.com/Suyashm_03/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  alt="meet2005"  height="30"  width="40"  /></a>
+</p>
 
-- 🌱 I’m currently learning **Javascript and DSA**
+<h2 align="center">🛠️Hobbies & Interests</h2>
 
-- 👯 I’m looking to collaborate on **any Python or web development Project.**
+  
 
-- 🤝 I’m looking for help with **my project contribution**
+- 🎨 Adobe Lightroom: I enjoy creating cinematic presets and editing pictures.
 
-- 👨‍💻 All of my projects are available at [https://github.com/suyashstr](https://github.com/suyashstr)
+- 🚀 AI: I'm hooked on the endless cool stuff AI and machine learning can do!
 
-- 📫 How to reach me **www.linkedin.com/in/suyash-mane2024**
+- 💻 Coding: I'm passionate about coding and learning new programming languages and technologies.
+  
+- 🌏 Exploration: I'm really into checking out new places I've never been to before, especially exploring famous forts. It's like my wanderlust calling..
 
-- ⚡ Fun fact **the most money I've ever won in a shooting game was 100rs.**<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suyashstr&label=Profile%20views&color=0e75b6&style=flat" alt="suyashstr" /> </p>
+- 🎧 Music: I sometimes just chill out and listen to music for fun and to unwind.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyashstr" alt="suyashstr" /></a> </p><br>
+<h2 align="center">💻Tech Stack</h2>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=androidstudio,c,css,git,github,html,js,mysql,netlify,replit,vercel,vscode,visualstudio&perline=9">
 
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashstr&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="suyashtr" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p><br>
+<img src="https://github-readme-stats.vercel.app/api?username=suyashstr&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="suyashtr" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suyash-mane-910791273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suyash-mane-910791273/" height="30" width="40" /></a>
-</p><be>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suyashstr&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashstr&show_icons=true&locale=en&layout=compact" alt="suyashstr" /></p><br><br>
+[![suyashtr's GitHub | Stats](https://stats.quine.sh/suyashtr/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=meet244)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyashstr&show_icons=true&locale=en" alt="suyashstr" /></p><br>
+</div>
+  
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suyashstr&" alt="suyashstr" /></p><br>
+![](https://github-profile-trophy.vercel.app/?username=suyashtr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<h2 align="center">🔰 Google Badges</h2>
 
+[![An image of suyashstr's Holopin badges, which is a link to view their Google cloud profile]([https://holopin.me/meet244](https://www.cloudskillsboost.google/public_profiles/a0aeec28-c31f-4ace-b7c1-612239a677f2/badges/6537143))]([https://holopin.io/@meet244](https://www.cloudskillsboost.google/public_profiles/a0aeec28-c31f-4ace-b7c1-612239a677f2))
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/suyashstr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="suyashstr" /></a></p><br><br>
+<h3 align="center">Show some 💖 by ⭐ the <a href="https://github.com/suyashstr?tab=repositories">repositories</a>!</h3>
+
+<img  src="https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg"  alt="animated"  />
