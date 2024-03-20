@@ -18,7 +18,7 @@
 - 📫 How to reach me **<a href="www.linkedin.com/in/suyash-mane2024">LinkedIn</a>**
 
   
-
+<br>
 <h2  align="center"> 🤝Connect with me</h2>
 
 <p align="center">
@@ -34,12 +34,6 @@
 <p  align="center">
 <a  href="https://leetcode.com/Suyashm_03/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  alt="meet2005"  height="30"  width="40"  /></a>
 </p>
-<br>
-
-
-<h2  align="center">💫About me</h2>
-
-<p  align="center">I'm Suyash Sunil Mane, a passionate and motivated engineering student from📍Mumbai.<br>🚀 I believe technology can be a powerful tool to make the world a better place.<br>⛓️With my knowledge and expertise.🎥 I am determined to create innovative solutions that can be used by businesses and individuals alike.📈 I am excited to be part of this evolving technological landscape and use my skills to positively impact💻⏭️</p>
 <br>
 
 
@@ -75,6 +69,11 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=suyashtr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<h2  align="center">💫About me</h2>
+
+<p  align="center">I'm Suyash Sunil Mane, a passionate and motivated engineering student from📍Mumbai.🚀 I believe technology can be a powerful tool to make the world a better place.<br>⛓️With my knowledge and expertise.🎥 I am determined to create innovative solutions that can be used by businesses and individuals alike.📈 I am excited to be part of this evolving technological landscape and use my skills to positively impact💻⏭️</p>
+<br>
 
 <h2 align="center">🔰 Google Badges</h2>
 
