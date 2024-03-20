@@ -1,6 +1,6 @@
 
 <h1  align="center">Hi 👋, Suyash Mane!</h1>
-<p  align="center">  <img  src="https://komarev.com/ghpvc/?username=meet244&label=Profile%20views&color=0e75b6&style=flat"  alt="suyashstr"  />  </p>
+<p  align="center">  <img  src="https://komarev.com/ghpvc/?username=suyashstr&label=Profile%20views&color=0e75b6&style=flat"  alt="suyashstr"  />  </p>
 
   
 
