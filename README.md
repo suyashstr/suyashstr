@@ -75,7 +75,7 @@
 
 <h2 align="center">🔰 Google Badges</h2>
 
-[![Google badges]<a href="https://www.cloudskillsboost.google/public_profiles/a0aeec28-c31f-4ace-b7c1-612239a677f2/badges/6537143">
+<p><a href="https://www.cloudskillsboost.google/public_profiles/a0aeec28-c31f-4ace-b7c1-612239a677f2/badges/6537143">Google badge</a></p>
 
 <h3 align="center">Show some 💖 by ⭐ the <a href="https://github.com/suyashstr?tab=repositories">repositories</a>!</h3>
 
