@@ -18,7 +18,20 @@
 - 📫 How to reach me **<a href="www.linkedin.com/in/suyash-mane2024">LinkedIn</a>**
 
   
-<br>
+
+
+<h2 align="center">🛠️Hobbies & Interests</h2>
+
+- 🎨 Adobe Lightroom: I enjoy creating cinematic presets and editing pictures.
+
+- 🚀 AI: I'm hooked on the endless cool stuff AI and machine learning can do!
+
+- 💻 Coding: I'm passionate about coding and learning new programming languages and technologies.
+  
+- 🌏 Exploration: I'm really into checking out new places I've never been to before, especially exploring famous forts. It's like my wanderlust calling..
+
+- 🎧 Music: I sometimes just chill out and listen to music for fun and to unwind.
+
 <h2  align="center"> 🤝Connect with me</h2>
 
 <p align="center">
@@ -35,19 +48,6 @@
 <a  href="https://leetcode.com/Suyashm_03/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  alt="meet2005"  height="30"  width="40"  /></a>
 </p>
 <br>
-
-
-<h2 align="center">🛠️Hobbies & Interests</h2>
-
-- 🎨 Adobe Lightroom: I enjoy creating cinematic presets and editing pictures.
-
-- 🚀 AI: I'm hooked on the endless cool stuff AI and machine learning can do!
-
-- 💻 Coding: I'm passionate about coding and learning new programming languages and technologies.
-  
-- 🌏 Exploration: I'm really into checking out new places I've never been to before, especially exploring famous forts. It's like my wanderlust calling..
-
-- 🎧 Music: I sometimes just chill out and listen to music for fun and to unwind.
 
 <h2 align="center">💻Tech Stack</h2>
 <p align="center"> 
