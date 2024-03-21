@@ -52,8 +52,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyashstr&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
 
 </div>
-
-<figure><embed src="https://wakatime.com/share/@018e6174-2a08-4d8f-8b5c-779bf5f01834/d8df6204-09d3-417a-8d16-1da620e365f5.svg"></embed></figure><br>
+<img src="https://wakatime.com/share/@018e6174-2a08-4d8f-8b5c-779bf5f01834/d8df6204-09d3-417a-8d16-1da620e365f5.svg">
   
 <h2 align="center">🏆 GitHub Trophies</h2>
 
