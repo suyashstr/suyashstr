@@ -17,7 +17,8 @@
 
 - 📫 How to reach me **<a href="www.linkedin.com/in/suyash-mane2024">LinkedIn</a>**
 
-  
+
+- Resume link:-https://app.enhancv.com/share/c2cb5431/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic 
 
 
 <h2 align="center">🛠️Hobbies & Interests</h2>
