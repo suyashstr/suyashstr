@@ -40,7 +40,7 @@
 
 <h2 align="center">💻Tech Stack</h2>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=c,css,git,github,html,js,mysql,netlify,replit,vercel,vscode,visualstudio&perline=9">
+  <img src="https://skillicons.dev/icons?i=c,css,git,github,html,js,mysql,netlify,replit,vercel,vscode,Adobe Lightroom&perline=9">
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
