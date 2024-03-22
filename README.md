@@ -29,7 +29,7 @@
 
 - 💻 Coding: I'm passionate about coding and learning new programming languages and technologies.
   
-- 🌏 Exploration: I'm really into checking out new places I've never been to before, especially exploring famous forts. It's like my wanderlust calling..
+- 🌏 Exploration: I'm really into checking out new places I've never been to before, especially exploring famous forts. It's like my wanderlust calling...
 
 - 🎧 Music: I sometimes just chill out and listen to music for fun and to unwind.
 
@@ -52,7 +52,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyashstr&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
 
 </div><br>
-<img src="https://wakatime.com/share/@018e6174-2a08-4d8f-8b5c-779bf5f01834/6b9de55d-2282-425e-9f29-b56adc2c5395.svg" >
+<img src="https://wakatime.com/share/@018e6174-2a08-4d8f-8b5c-779bf5f01834/8762311c-83c3-4a2d-aa48-c9922a1ceee4.svg" >
   
 <h2 align="center">🏆 GitHub Trophies</h2>
 
