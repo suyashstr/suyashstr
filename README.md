@@ -3,7 +3,7 @@
 <p  align="center">  <img  src="https://komarev.com/ghpvc/?username=suyashstr&label=Profile%20views&color=0e75b6&style=flat"  alt="suyashstr"  />  </p>
 <br>
   
-- 🌱 I’m currently into **Web Development stuff**
+- 🌱 I’m currently into **Data Analytics stuff**
 
   
 
