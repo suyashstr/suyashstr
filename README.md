@@ -36,7 +36,10 @@
 
 <h2  align="center">💫About me</h2>
 
-<p  align="center">I'm Suyash Sunil Mane, a passionate and motivated engineering student from📍Mumbai.🚀 I believe technology can be a powerful tool to make the world a better place.<br>⛓️With my knowledge and expertise.🎥 I am determined to create innovative solutions that can be used by businesses and individuals alike.📈 I am excited to be part of this evolving technological landscape and use my skills to positively impact💻⏭️</p>
+<p  align="center">I'm Suyash Sunil Mane, a passionate and motivated engineering student from📍Mumbai.🚀
+  I believe technology can be a powerful tool to make the world a better place.<br>⛓️With my knowledge and expertise.🎥
+  I am determined to create innovative solutions that can be used by businesses and individuals alike.📈 
+  I am excited to be part of this evolving technological landscape and use my skills to positively impact💻⏭️</p>
 <br>
 
 <h2 align="center">💻Tech Stack</h2>
